@@ -1,0 +1,17 @@
+  FORMAT OF THE SUBSETTED FILE
+    
+    ITEMS                      FORMAT   
+     
+ 1 YEAR                          I4        
+ 2 DOY                           I4        
+ 3 Hour                          I3        
+ 4 Scalar B, nT                  F6.1      
+ 5 SW Plasma Temperature, K      F9.0      
+ 6 SW Proton Density, N/cm^3     F6.1      
+ 7 SW Plasma Speed, km/s         F6.0      
+ 8 Alpha/Prot. ratio             F6.3      
+ 9 Flow pressure                 F6.2      
+10 Kp index                      I3        
+11 R (Sunspot No.)               I4        
+12 Dst-index, nT                 I6        
+13 f10.7_index                   F6.1      
